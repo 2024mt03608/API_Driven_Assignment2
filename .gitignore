@@ -1,0 +1,21 @@
+# Ignore model files
+fine_tuned_model/
+results/
+*.safetensors
+*.bin
+*.pt
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore dataset (optional)
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore env files (important)
+.env
+venv/

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+streamlit
+sentence-transformers
+faiss-cpu
+requests
+pydantic
